@@ -1,0 +1,16 @@
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/self_drive_bringup/launch/slam.launch.py
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/ament_index/resource_index/package_run_dependencies/self_drive_bringup
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/ament_index/resource_index/parent_prefix_path/self_drive_bringup
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/self_drive_bringup/environment/ament_prefix_path.sh
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/self_drive_bringup/environment/ament_prefix_path.dsv
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/self_drive_bringup/environment/path.sh
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/self_drive_bringup/environment/path.dsv
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/self_drive_bringup/local_setup.bash
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/self_drive_bringup/local_setup.sh
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/self_drive_bringup/local_setup.zsh
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/self_drive_bringup/local_setup.dsv
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/self_drive_bringup/package.dsv
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/ament_index/resource_index/packages/self_drive_bringup
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/self_drive_bringup/cmake/self_drive_bringupConfig.cmake
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/self_drive_bringup/cmake/self_drive_bringupConfig-version.cmake
+/home/ubuntu/ros2_ws/install/self_drive_bringup/share/self_drive_bringup/package.xml

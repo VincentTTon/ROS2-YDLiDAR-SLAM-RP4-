@@ -1,0 +1,2 @@
+source;share/self_drive_bringup/environment/ament_prefix_path.sh
+source;share/self_drive_bringup/environment/path.sh

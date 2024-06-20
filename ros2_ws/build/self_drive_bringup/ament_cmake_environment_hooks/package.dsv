@@ -1,0 +1,4 @@
+source;share/self_drive_bringup/local_setup.bash
+source;share/self_drive_bringup/local_setup.dsv
+source;share/self_drive_bringup/local_setup.sh
+source;share/self_drive_bringup/local_setup.zsh
