@@ -3,7 +3,7 @@ This is part of a self driving RC project using ROS2, slam_toolbox, and YDLiDAR 
 The laptop portion can be found here: 
 
 
-The YDLiDAR workspace is missing however, it was created using this guide [https://github.com/VincentTTon/YDLidar-X4-Ubuntu-22.04](url)
+The YDLiDAR workspace is missing however, it was created using this [guide](https://github.com/VincentTTon/YDLidar-X4-Ubuntu-22.04)
 
 The program runs using the command: 
 >ros2 launch self_drive_bringup slam.launch.py 
